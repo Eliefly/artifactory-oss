@@ -1,2 +1,2 @@
-FROM docker.bintray.io/jfrog/artifactory-oss:6.10.1
+FROM docker.bintray.io/jfrog/artifactory-oss:latest
 MAINTAINER eliefly@qq.com
